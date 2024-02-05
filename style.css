@@ -1,0 +1,8 @@
+
+.d-block{
+    height: 100vh;
+}
+
+img{
+    object-fit: cover;
+}
